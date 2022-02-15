@@ -1,0 +1,8 @@
+
+tasks:
+  requirements:
+    runner: razorci/python
+    steps:
+    - commands:
+      - pip install -r requirements.txt
+
