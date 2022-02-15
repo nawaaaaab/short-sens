@@ -1,7 +1,7 @@
 from dash import Dash, dcc, html, Input, Output
 
-neg_list = ['no', 'not', 'worst', "ohh"]
-pos_list = ['yes', 'awesome', 'amazing']
+neg_list = ['no', 'not', 'worst', "ohh", 'noooo', 'oho', 'bad']
+pos_list = ['yes', 'awesome', 'amazing', 'haha', 'aha', 'good']
 
 app = Dash(__name__)
 
